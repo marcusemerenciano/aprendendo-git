@@ -1,2 +1,2 @@
-# aprendendo git
+# aprendendo Git e Github
  primeiro repositorio versionado
